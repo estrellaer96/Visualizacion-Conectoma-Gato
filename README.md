@@ -7,4 +7,4 @@ Este proyecto presenta un **Diagrama de Arco** de las conexiones neuronales de u
 * **Librerías:** NetworkX y Matplotlib
 
 ## Visualización
-![Diagrama de Arco](nombre_de_tu_imagen.png)
+![Diagrama de Arco](con_neu_gato_arc_diagram.png)
